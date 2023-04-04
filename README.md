@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mvillamizar74
-- 👀 I’m interested in RFID UHF C1G2 Software, Android (JAVA) and also web development
-- 🌱 I’m currently learning VUE
+- 👀 I’m interested in RFID Software Development, Android Java/Kotlin and also web development
+- 🌱 I’m currently learning Cloud stuff
 - 💞️ I’m looking to collaborate on any RFID interesting project.
 - 📫 I can be reach on Instagram (mvillamizar1974)
 
