@@ -2,7 +2,7 @@
 - 👀 I’m interested in RFID Software Development, Android Java/Kotlin and also web development
 - 🌱 I’m currently learning Cloud stuff
 - 💞️ I’m looking to collaborate on any RFID interesting project.
-- 📫 I can be reach on Instagram (mvillamizar1974)
+- 📫 I can be reach on Instagram (@mvillamizar74)
 
 <!---
 mvillamizar74/mvillamizar74 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
